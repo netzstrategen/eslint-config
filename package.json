@@ -14,11 +14,9 @@
     "url": "https://github.com/netzstrategen/eslint-config-netzstrategen.git"
   },
   "dependencies": {
-    "eslint-plugin-import": "^2.23.3"
-  },
-  "devDependencies": {
     "eslint": "^7.27.0",
-    "eslint-config-airbnb-base": "^14.2.1"
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.3"
   },
   "peerDependencies": {
     "eslint": ">=7"
