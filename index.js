@@ -8,8 +8,8 @@ module.exports = {
     ecmaVersion: 2021,
     sourceType: 'module',
   },
-  extends: ['eslint:recommended', 'google'],
   plugins: ['import', 'prettier'],
+  extends: ['eslint:recommended', 'google'],
   rules: {
     'comma-dangle': ['error', 'only-multiline'],
     'import/no-cycle': [0, { ignoreExternal: true }],
