@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/netzstrategen/eslint-config.git"
+    "url": "https://github.com/netzstrategen/eslint-config"
   },
   "dependencies": {
     "eslint": "^7.27.0",
