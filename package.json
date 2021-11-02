@@ -1,17 +1,17 @@
 {
   "name": "@netzstrategen/eslint-config",
   "version": "1.0.1",
-  "description": "Netzstrategen eslint config",
+  "description": "ESLint configuration for netzstrategen projects.",
   "main": "index.js",
   "keywords": [
     "stylelint",
     "stylelint-config"
   ],
-  "author": "Netzstrategen <hallo@netzstrategen.com> (https://netzstrategen.com/)",
+  "author": "netzstrategen <hi@netzstrategen.com> (https://netzstrategen.com/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/netzstrategen/eslint-config-netzstrategen.git"
+    "url": "https://github.com/netzstrategen/eslint-config.git"
   },
   "dependencies": {
     "eslint": "^7.27.0",
