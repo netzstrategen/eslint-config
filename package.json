@@ -4,8 +4,8 @@
   "description": "ESLint configuration for netzstrategen projects.",
   "main": "index.js",
   "keywords": [
-    "stylelint",
-    "stylelint-config"
+    "eslint",
+    "eslint-config"
   ],
   "author": "netzstrategen <hi@netzstrategen.com> (https://netzstrategen.com/)",
   "license": "MIT",
