@@ -1,7 +1,7 @@
 {
   "name": "@netzstrategen/eslint-config",
   "version": "1.0.1",
-  "description": "netzstrategen eslint configuration.",
+  "description": "ESLint configuration for netzstrategen projects.",
   "main": "index.js",
   "keywords": [
     "eslint",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/netzstrategen/eslint-config"
+    "url": "https://github.com/netzstrategen/eslint-config.git"
   },
   "dependencies": {
     "eslint": "^7.27.0",
